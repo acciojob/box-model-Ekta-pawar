@@ -1,11 +1,12 @@
 .container {
+	dispkay:flex;
   width: 300px;
   margin: 50px auto; 
   padding: 20px;
 	 background-color:#D3D3D3;
-  border: 2px solid #ccc;
+  border: 2px solid black;
   border-radius: 10px;
-  text-align: center; 
+  align-item: center; 
 }
 
 .red, .green, .yellow {
